@@ -1,0 +1,1 @@
+export const AuthSelector = ((state) => state.auth);
